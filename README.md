@@ -5,8 +5,8 @@ A simple Sinatra app to acquire a Kerberos TGT. Presents a form to input princip
 
 Requirements
 ------------
-sinatra gem
-kinit utility (works with MIT client)
+* sinatra gem
+* kinit utility (works with MIT client)
 
 Obvious Uses
 ------------
