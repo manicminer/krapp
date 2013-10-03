@@ -10,7 +10,7 @@ Requirements
 
 Obvious Uses
 ------------
-Store your kerberos password in LastPass! (or your favourite browser-based password manager)
-Run at login time using your preferred desktop environment
-Create a bookmark in your browser toolbar
-Enable auto-login for your password manager and enjoy one-click action :-)
+* Store your kerberos password in LastPass! (or your favourite browser-based password manager)
+* Run at login time using your preferred desktop environment
+* Create a bookmark in your browser toolbar
+* Enable auto-login for your password manager and enjoy one-click action :-)
